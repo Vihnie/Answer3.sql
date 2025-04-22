@@ -11,9 +11,9 @@ M   CREATE TABLE student ( id INT PRIMARY KEY,
    ```sql
    INSERT INTO student (id, fullName, age)
    VALUES
-   (1, 'John Doe', 22),
-   (2, 'Jane Smith', 20),
-   (3, 'Emily Davis', 21);
+   (1, 'John Kirk', 22),
+   (2, 'Jane Ray', 20),
+   (3, 'Emily Keen', 21);
    ```
 
 3. *Update Age:*
